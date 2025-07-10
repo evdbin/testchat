@@ -2,9 +2,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Моя сторінка</title>
-  <style>
-    body { font-family: sans-serif; background: #f0f0f0; padding: 20px; }
-  </style>
+
 </head>
 <body>
   <h1>Привіт!</h1>
